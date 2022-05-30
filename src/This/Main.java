@@ -10,6 +10,8 @@ public class Main {
 
         System.out.println(thisisfun.a);
         System.out.println(thisisfun.b);
+        System.out.println(thisisfun.b);
+
 
     }
 }
